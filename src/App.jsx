@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './components/Header';
 import Sidebar from './components/Sidebar';
-import Dashboard from './components/Dashboard';
+import Dashboard from './pages/Dashboard';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
 const App = () => {
